@@ -70,14 +70,14 @@
             <input
                  type="radio"
                  id="male"
-                 value="Male"
+                 value="MaleValue"
                  v-model="gender"> Male
           </label>
           <label for="female">
             <input
                  type="radio"
                  id="female"
-                 value="Female"
+                 value="FemaleValue"
                  v-model="gender"> Female
           </label>
         </div>
